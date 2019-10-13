@@ -106,7 +106,7 @@ Send us your solution so we can show others! Submit a link to the Github [repo](
 * [Antonio Marcos's solution](https://github.com/AMarcosCastelo/NYT-clone-page) - [View in browser](https://amarcoscastelo.github.io/NYT-clone-page/)
 * [Carlos Del Real's and Gabriela Cruz's Solution](https://github.com/ViriCruz/positioning-and-floating-elements) - [View in Browser](https://viricruz.github.io/positioning-and-floating-elements/)
 * [Halkim's Solution](https://github.com/halkim44/nytimes-article-rebuild) - [View in Browser](https://halkim44.github.io/nytimes-article-rebuild/)
-
+*  [ElCodeRaro's solution](https://github.com/ElCodeRaro/NYT-Copy-Page-Odin-Project) - [View in browser] (https://github.com/ElCodeRaro/NYT-Copy-Page-Odin-Project)
 </details>
 
 ### Additional Resources
